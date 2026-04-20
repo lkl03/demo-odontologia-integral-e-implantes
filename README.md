@@ -1,2 +1,7 @@
-# demo-odontologia-integral-e-implantes
-Demo web para Odontologia Integral e Implantes — diseñada por eterlab.
+# Odontologia Integral e Implantes
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
